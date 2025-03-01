@@ -1,2 +1,2 @@
-# Connect
+# Connecct
  Connect similar dots
