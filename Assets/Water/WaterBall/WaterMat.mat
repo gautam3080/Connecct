@@ -127,7 +127,7 @@ Material:
     m_Colors:
     - Vector3_bb7c38b09f634097a55a223633a28e56: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.85660374, g: 0.8323485, b: 0, a: 1}
+    - _Color: {r: 0, g: 0.7283019, b: 0.47035533, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SpherePos: {r: 0, g: 3.55, b: 0, a: 0}
